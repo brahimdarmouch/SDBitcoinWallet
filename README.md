@@ -38,5 +38,5 @@ BECH32 Address          :  bc1qt0c8m5h505kemduex38yr353e3yy6f5n234naz
 In case you have the private key WIF(Wallet Import Format)<br/>
 and you want to fetch wallet info, simply just uncomment the [line 53](https://github.com/brahimdarmouch/SDBitcoinWallet/blob/master/sd_wallet.py#L53) like this :
 ```python
-hexPrv = wifToPrvHex("WIF_KEY_HERE") # 5J8et4aCAZiJ6aMU6yAJb7cENXyEM34oxUd9hC5Vi5d........# SDBitcoinWallet
+hexPrv = wifToPrvHex("WIF_KEY_HERE") # 5J8et4aCAZiJ6aMU6yAJb7cENXyEM34oxUd9hC5Vi5d........
 ```
