@@ -8,7 +8,8 @@ WIF key
 
 Installation
 -------------
-First of all, you need to install Prerequisites (in requirements.txt) :
+First of all, you need Python 3.x
+secondly, you need to install Prerequisites (in requirements.txt) :
 ```bash
 $ pip install -r requirements.txt
 ```
