@@ -1,3 +1,5 @@
+# Python 3.x
+# script by Brahim Darmouch
 import os, binascii, hashlib, base58, ecdsa
 import bech32
 
