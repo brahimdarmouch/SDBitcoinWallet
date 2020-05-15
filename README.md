@@ -40,4 +40,4 @@ Output looks like this :
 In case you have the private key WIF(Wallet Import Format)
 and you want to fetch wallet info, simply just uncomment the [line 53](#53) like this :
 .. code:: python
-	hexPrv = wifToPrvHex("WIF_KEY_HERE") # 5J8et4aCAZiJ6aMU6yAJb7cENXyEM34oxUd9hC5Vi5d........
+	hexPrv = wifToPrvHex("WIF_KEY_HERE") # 5J8et4aCAZiJ6aMU6yAJb7cENXyEM34oxUd9hC5Vi5d........# SDBitcoinWallet
